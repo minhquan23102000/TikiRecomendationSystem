@@ -1,0 +1,4 @@
+*.ipynb
+/.ipynb_checkpoints
+/collaborative_filtering_model
+/ReviewRaw.csv
