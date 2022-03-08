@@ -33,7 +33,7 @@ In this project we will build two type of recommendation system to help the cust
 The data was gave to us with the following description: 
 There are two file, ProductRaw.csv and ReviewRaw.csv. ProductRaw.csv has information about properties of products. On the other hand, ReviewRaw.csv has information about customers rating on products. 
 
-In this notebook, we only care about ProductRaw.csv with the following columns:
+The ProductRaw.csv with the following columns:
 + item_id: products's id
 + name: products' name 
 + description: products's description
